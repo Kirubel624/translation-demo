@@ -28,7 +28,7 @@ const Homepage = () => {
         "አክሲዮን የአንድ ኮርፖሬሽንን ከፊል ባለቤትነትን የሚወክል ዋስትና ነው እናም በብዛት በአክሲዮን መገበያያዎች ወይንም ስቶክ ኤክስቼንጅ ላይ ይሸጣል።",
         "ኮርፖሬሽኖች የንግድ ስራቸውን ለመስራት የሚያስፈልጋቸውን ገንዘብ ለማሰባሰብ አክሲዮን ይሸጣሉ።",
         "ሁለት ዋና ዋና የአክሲዮን ዓይነቶች አሉ - ኮመን እና ፕሪፈርድ።",
-        "በታሪክ አኳያ ፣ አክሲዮኖች በረጅም ጊዜ ሲታዩ ከሌላ የኢንቬስትመንት አማራጮች በልጠው ታይተዋል።",
+        "በታሪክ አኳያ ፣ አክሲዮኖች እንደ ረጅም ጊዜ ኢንቬስትመንት አማራጭ ሲታዩ ከሌላ የኢንቬስትመንት አማራጮች በልጠው ተገኝተዋል።",
       ],
       keyTakeAways_en: [
         "A stock is a form of security that indicates the holder has proportionate ownership in the issuing corporation and is sold predominantly on stock exchanges.",
